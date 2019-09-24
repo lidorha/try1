@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 masterrrr
+=======
+Nbn1
+>>>>>>> nbn1
